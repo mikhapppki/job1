@@ -4,7 +4,8 @@ Projet rendu dans le cadre du Job 02 (La Plateforme).
 
 ## Contenu
 
-- `report.sh` : script shell qui affiche un petit rapport système.
+- `report.sh` : script shell qui affiche un petit rapport système
+  (utilisateur, machine, date, noyau, uptime, mémoire, disque).
 
 ## Utilisation
 
